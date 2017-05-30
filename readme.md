@@ -39,6 +39,8 @@ An array of HTML tags to look for.
 
 - [x] supply tag names to remove
 - [ ] remove all empty tags by default (if no tags are supplied)
+- [ ] option to ignore files
+- [ ] option to ignore tags with certain classes
 - [ ] better test coverage
 
 ## License
