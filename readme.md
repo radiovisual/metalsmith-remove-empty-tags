@@ -38,7 +38,7 @@ An array of HTML tags to look for.
 ## TODO
 
 - [x] supply tag names to remove
-- [ ] remove all empty tags by default
+- [ ] remove all empty tags by default (if no tags are supplied)
 - [ ] better test coverage
 
 ## License
