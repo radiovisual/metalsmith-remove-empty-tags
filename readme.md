@@ -1,9 +1,12 @@
-# metalsmith-remove-empty-tags [![Build Status](https://travis-ci.org/radiovisual/metalsmith-remove-empty-tags.svg?branch=master)](https://travis-ci.org/radiovisual/metalsmith-remove-empty-tags)
+# metalsmith-remove-empty-tags
+
+[![Build Status](https://travis-ci.org/radiovisual/metalsmith-remove-empty-tags.svg?branch=master)](https://travis-ci.org/radiovisual/metalsmith-remove-empty-tags)
 
 > Remove empty HTML tags from your metalsmith template files.
 
 :warning: **Not fully tested or production ready**. Use at your own risk. There are a few items on the
-roadmap to `v1.0`, but I am not sure when I will get around to this, so Pull Requests are welcome
+[roadmap to `v1.0`](https://github.com/radiovisual/metalsmith-remove-empty-tags/issues),
+but I am not sure when I will get around to this, so Pull Requests are welcome
 to help extend test coverage and close some issues.
 
 ## Install
