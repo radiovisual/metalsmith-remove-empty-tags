@@ -2,7 +2,7 @@
 
 > Remove empty HTML tags from your metalsmith template files.
 
-:warning: Not fully tested. Use at your own risk. Pull Requests are welcome to help
+:warning: **Not fully tested.** Pull Requests are welcome to help
 extend the test coverage.
 
 ## Install
@@ -34,6 +34,12 @@ Metalsmith(__dirname)
 Type: `array`
 
 An array of HTML tags to look for.
+
+## TODO
+
+- [x] supply tag names to remove
+- [ ] remove all empty tags by default
+- [ ] better test coverage
 
 ## License
 
