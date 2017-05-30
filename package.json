@@ -1,0 +1,40 @@
+{
+  "name": "metalsmith-remove-empty-tags",
+  "version": "0.0.1",
+  "description": "Remove empty HTML tags from your metalsmith template files.",
+  "license": "MIT",
+  "repository": "radiovisual/metalsmith-remove-empty-tags",
+  "author": {
+    "name": "Michael Wuergler",
+    "email": "wuergler@gmail.com",
+    "url": "numetriclabs.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "metalsmith",
+    "remove",
+    "empty",
+    "null",
+    "tags",
+    "html"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "assert-dir-equal": "^1.0.1",
+    "metalsmith": "^2.3.0",
+    "mocha": "^3.4.2",
+    "rimraf": "^2.6.1",
+    "xo": "^0.17.0"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
