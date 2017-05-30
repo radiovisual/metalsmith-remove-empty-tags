@@ -2,8 +2,9 @@
 
 > Remove empty HTML tags from your metalsmith template files.
 
-:warning: **Not fully tested.** Pull Requests are welcome to help
-extend the test coverage.
+:warning: **Not fully tested or production ready**. Use at your own risk. There are a few items on the
+roadmap to `v1.0`, but I am not sure when I will get around to this, so Pull Requests are welcome
+to help extend test coverage and close some issues.
 
 ## Install
 
